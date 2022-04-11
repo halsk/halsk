@@ -9,7 +9,7 @@ My name is Hal Seki.
 For the detail profile, see [my profile repository](https://github.com/halsk/profile)
 
 ## 🏆 [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=halsk&theme=gruvbox&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
