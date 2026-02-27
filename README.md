@@ -2,7 +2,7 @@ Hi There 🖖
 
 My name is Hal Seki.
 
-- 🔭 I’m currently working on Code for Japan, Georepublic Japan, and HackCamp
+- 🔭 I’m currently working on Code for Japan, Geolonia, and HackCamp
 - 👯 I’m looking to collaborate on Civic Tech projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/hal_sk)
 
